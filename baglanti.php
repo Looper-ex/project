@@ -12,6 +12,6 @@ include "baglanti.php";
           <p class="offer">'.$listele["kisa_icerik"].'</p>
           <div class="more"><a href="#">...more</></div>
         </div>
-      </div>';
+      </div>;
 	}
 	
