@@ -15,7 +15,7 @@ if(empty($_SESSION["giris"]))
 <html xmlns="http://www.w3.org/1999/html">
 <head>
 <title>Emlak</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-7" />
 <link rel="stylesheet" type="text/css" href="style.css" />
 <link rel="stylesheet" type="text/css" href="admin.css" />
 </head>
