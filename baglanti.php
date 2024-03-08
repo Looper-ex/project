@@ -9,7 +9,7 @@ include "baglanti.php";
 	  
 	  echo '<div class="offer_box_wide"> <a href="#"><img src='.$listele["resim"].' width="130" height="98" class="img_left" alt="" border="0" /></a>
         <div class="offer_info"> <span>'.$listele["baslik"].'</span>
-          <p class="offer">'.$listele["kisa_icerik"].'</p>
+          <p class="offer">'.$listele["kisa_icerik"]'</p>
           <div class="more"><a href="#">...more</></div>
         </div>
       </div>;
