@@ -7,7 +7,7 @@ ob_start();
 if(empty($_SESSION["giris"]))
 {
 	echo "Giris yapilamaz";
-	header("location:index.php");
+	header("location:index,php");
 }
 ?>
 
