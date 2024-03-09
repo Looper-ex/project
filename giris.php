@@ -46,7 +46,7 @@ include "baglanti.php";
 	 {
 		 $_SESSION["giris"]=$txkad;
 		 echo "Giriş yapıldı";
-		 header("location:index.php");
+		 header("location:index,php");
 	  }
 	  else
 	  {
